@@ -1,0 +1,4 @@
+1;Dragonball Super;Akira Toriyama25000;110;7/25/2022 10:19:51 AM;
+3;Doraemon;Fujiko15000;150;7/25/2022 10:19:51 AM;
+4;One Piece;Eiichiro Oda25000;110;7/25/2022 10:19:51 AM;
+5;DragonBall Super;Toyijamaa21000;2454;7/25/2022 10:22:07 AM;
